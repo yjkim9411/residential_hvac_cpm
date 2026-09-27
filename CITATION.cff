@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite it using these metadata."
+title: "Residential HVAC Change-Point Model"
+type: software
+authors:
+  - family-names: "Kim"
+    given-names: "You-Jeong"
+    orcid: "https://orcid.org/0000-0001-6211-3172"
+version: "1.0.0"
+date-released: "2026-09-26"
+license: "BSD-3-Clause"
+abstract: >-
+  Python tools for preparing ecobee and EnergyPlus time-step data and fitting
+  residential HVAC temperature-based change-point models.
+keywords:
+  - HVAC
+  - change-point model
+  - building energy
+  - EnergyPlus
+  - ecobee
